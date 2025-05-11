@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\Lab_2_matprog\main.cpp(39,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\Lab_2_matprog\main.cpp(48,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Lab_2_matprog.vcxproj -> C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\x64\Debug\Lab_2_matprog.exe

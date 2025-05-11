@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(15,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(17,30): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(54,11): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(52,11): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(68,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(68,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(25,31): warning C4101: t4: неиспользованная локальная переменная
+C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\LAB_4_matprog\main.cpp(25,27): warning C4101: t3: неиспользованная локальная переменная
+  LAB_4_matprog.vcxproj -> C:\ФИТ\Лабораторные работы\4 сем\МатПрог\Lab_1_matprog\x64\Debug\LAB_4_matprog.exe
